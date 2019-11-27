@@ -1,0 +1,15 @@
+{
+  "name": "fixbug",
+  "version": "1.0.0",
+  "description": " resolve some question when you develop web",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvtianlong/npm.git"
+  },
+  "author": "lvtianlong",
+  "license": "ISC"
+}
